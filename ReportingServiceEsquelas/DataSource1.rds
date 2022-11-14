@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=DESKTOP-TJ2E7S8;Initial Catalog=EsquelasDB</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>a94e1507-d609-47d3-bca0-3d704f031c97</DataSourceID>
+</RptDataSource>
